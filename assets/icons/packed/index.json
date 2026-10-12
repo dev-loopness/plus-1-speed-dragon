@@ -1,0 +1,28 @@
+{
+ "size": 256,
+ "format": "rgba8 zstd base64",
+ "names": [
+  "Check",
+  "Clock",
+  "Close",
+  "Coin",
+  "Dragons",
+  "Egg",
+  "Fuse",
+  "Index",
+  "Lock",
+  "Nest",
+  "Plus",
+  "Quests",
+  "Rebirth",
+  "Rewards",
+  "Scales",
+  "Settings",
+  "Shop",
+  "Slow",
+  "Star",
+  "Trails",
+  "Training",
+  "Trophy"
+ ]
+}
